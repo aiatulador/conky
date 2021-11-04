@@ -4,4 +4,8 @@ Conky is a free software desktop system monitor for the X Window System. It is a
 
 So this is the configured conky file for my PC.
 
+
+<a href="https://github.com/brndnmtthws/conky">Git Repo</a>
+
+
 <img src="https://i.postimg.cc/y8367WMH/bvd.png" width="600" height="400" />
